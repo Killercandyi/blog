@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>candyのBlog</title>
+        <link>http://candyii.cn/</link>
+        <description>Recent content on candyのBlog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Tue, 24 Nov 2020 01:34:25 +0800</lastBuildDate><atom:link href="http://candyii.cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>美好的一天开始了</title>
+        <link>http://candyii.cn/p/%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%E5%BC%80%E5%A7%8B%E4%BA%86/</link>
+        <pubDate>Tue, 24 Nov 2020 01:34:25 +0800</pubDate>
+        
+        <guid>http://candyii.cn/p/%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%E5%BC%80%E5%A7%8B%E4%BA%86/</guid>
+        <description>&lt;img src="https://candy-blogs-1302944410.cos.ap-guangzhou.myqcloud.com/cover.jpg" alt="Featured image of post 美好的一天开始了" /&gt;&lt;h2 id=&#34;嘿嘿&#34;&gt;嘿嘿&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../Super%20sweet/%e5%98%bb%e5%98%bb.jpg&#34; alt=&#34;图片1&#34;  /&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;你好你好你好&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;更新了文章&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;kd&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;getHappy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;candy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;candy&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;===&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;超帅&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;happy&amp;#34;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

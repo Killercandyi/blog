@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on candyのBlog</title>
+    <link>http://candyii.cn/tags/hugo/</link>
+    <description>Recent content in Hugo on candyのBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 Nov 2020 01:34:25 +0800</lastBuildDate><atom:link href="http://candyii.cn/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>美好的一天开始了</title>
+      <link>http://candyii.cn/p/%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%E5%BC%80%E5%A7%8B%E4%BA%86/</link>
+      <pubDate>Tue, 24 Nov 2020 01:34:25 +0800</pubDate>
+      
+      <guid>http://candyii.cn/p/%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%E5%BC%80%E5%A7%8B%E4%BA%86/</guid>
+      <description>嘿嘿 &amp;lt;div&amp;gt;你好你好你好&amp;lt;/div&amp;gt; &amp;lt;p&amp;gt;更新了文章&amp;lt;/p&amp;gt; function getHappy(candy){ if(candy === &amp;#34;超帅&amp;#34;){ return &amp;#34;happy&amp;#34; } } </description>
+    </item>
+    
+  </channel>
+</rss>
